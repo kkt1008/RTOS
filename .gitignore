@@ -1,0 +1,21 @@
+# Build output directories
+build/
+
+# Object and build artifacts
+*.o
+*.os
+*.axf
+*.elf
+*.bin
+*.map
+*.lst
+*.d
+*.dep
+
+# VS Code local settings
+.vscode/
+
+# Temporary files
+*.log
+*.tmp
+.DS_Store
